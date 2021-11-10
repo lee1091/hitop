@@ -1,2 +1,2 @@
-// alert("hello javascript");
+//alert("hello javascript");
 console.log("hello javascript");
